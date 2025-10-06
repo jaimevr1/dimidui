@@ -1,0 +1,6 @@
+# Declare files that will always have CRLF line endings
+*.gitattributes text eol=lf
+*.js text eol=lf
+*.html text eol=lf
+*.css text eol=lf
+*.md text eol=lf

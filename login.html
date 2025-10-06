@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login - Dimidui</title>
+    <!-- Adicionar links para CSS aqui -->
+</head>
+<body>
+    <main>
+        <h1>Login do Aluno</h1>
+        <form id="login-form">
+            <div>
+                <label for="name">Nome:</label>
+                <input type="text" id="name" name="name" required>
+            </div>
+            <div>
+                <label for="password">Senha:</label>
+                <input type="password" id="password" name="password" required>
+            </div>
+            <button type="submit">Entrar</button>
+        </form>
+        <p id="error-message" style="color: red;"></p>
+    </main>
+    <script type="module" src="/scripts/auth.js"></script>
+</body>
+</html>

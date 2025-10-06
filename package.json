@@ -1,0 +1,27 @@
+{
+  "name": "dimidui",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000d\u0000i\u0000m\u0000i\u0000d\u0000u\u0000i\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "dev": "live-server --open=login.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaimevr1/dimidui.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/jaimevr1/dimidui/issues"
+  },
+  "homepage": "https://github.com/jaimevr1/dimidui#readme",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
