@@ -23,5 +23,8 @@
   "homepage": "https://github.com/jaimevr1/dimidui#readme",
   "devDependencies": {
     "live-server": "^1.2.2"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.74.0"
   }
 }
